@@ -1,0 +1,1779 @@
+[
+    {
+        "ID": 1,
+        "Title": "Untitled",
+        "Description": " ",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Sculpture",
+        "ImagePaths": [
+            "1_0.jpg"
+        ]
+    },
+    {
+        "ID": 2,
+        "Title": "Untitled",
+        "Description": " ",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Sculpture",
+        "ImagePaths": [
+            "2_0.jpg"
+        ]
+    },
+    {
+        "ID": 3,
+        "Title": "Untitled",
+        "Description": " ",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Sculpture",
+        "ImagePaths": [
+            "3_0.jpg"
+        ]
+    },
+    {
+        "ID": 4,
+        "Title": "Untitled",
+        "Description": " ",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Sculpture",
+        "ImagePaths": [
+            "4_0.jpg"
+        ]
+    },
+    {
+        "ID": 5,
+        "Title": "Untitled",
+        "Description": " ",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Sculpture",
+        "ImagePaths": [
+            "5_0.jpg"
+        ]
+    },
+    {
+        "ID": 6,
+        "Title": "Untitled",
+        "Description": " ",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Sculpture",
+        "ImagePaths": [
+            "6_0.jpg"
+        ]
+    },
+    {
+        "ID": 7,
+        "Title": "Untitled",
+        "Description": " ",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Sculpture",
+        "ImagePaths": [
+            "7_0.jpg"
+        ]
+    },
+    {
+        "ID": 8,
+        "Title": "Untitled",
+        "Description": " ",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Sculpture",
+        "ImagePaths": [
+            "8_0.jpg"
+        ]
+    },
+    {
+        "ID": 9,
+        "Title": "Untitled",
+        "Description": " ",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Sculpture",
+        "ImagePaths": [
+            "9_0.jpg"
+        ]
+    },
+    {
+        "ID": 10,
+        "Title": "Untitled",
+        "Description": " ",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Sculpture",
+        "ImagePaths": [
+            "10_0.jpg"
+        ]
+    },
+    {
+        "ID": 11,
+        "Title": "Untitled",
+        "Description": " ",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Sculpture",
+        "ImagePaths": [
+            "11_0.jpg"
+        ]
+    },
+    {
+        "ID": 12,
+        "Title": "Untitled",
+        "Description": " ",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Sculpture",
+        "ImagePaths": [
+            "12_0.jpg"
+        ]
+    },
+    {
+        "ID": 13,
+        "Title": "Untitled",
+        "Description": " ",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Sculpture",
+        "ImagePaths": [
+            "13_0.jpg"
+        ]
+    },
+    {
+        "ID": 14,
+        "Title": "Untitled",
+        "Description": " ",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Sculpture",
+        "ImagePaths": [
+            "14_0.jpg"
+        ]
+    },
+    {
+        "ID": 15,
+        "Title": "Untitled",
+        "Description": " ",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Sculpture",
+        "ImagePaths": [
+            "15_0.jpg"
+        ]
+    },
+    {
+        "ID": 16,
+        "Title": "Untitled",
+        "Description": " ",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Sculpture",
+        "ImagePaths": [
+            "16_0.jpg"
+        ]
+    },
+    {
+        "ID": 17,
+        "Title": "Untitled",
+        "Description": " ",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Sculpture",
+        "ImagePaths": [
+            "17_0.jpg"
+        ]
+    },
+    {
+        "ID": 18,
+        "Title": "Untitled",
+        "Description": " ",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Sculpture",
+        "ImagePaths": [
+            "18_0.jpg"
+        ]
+    },
+    {
+        "ID": 19,
+        "Title": "Untitled",
+        "Description": " ",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Sculpture",
+        "ImagePaths": [
+            "19_0.jpg"
+        ]
+    },
+    {
+        "ID": 20,
+        "Title": "Untitled",
+        "Description": "150.00 x 180.00 cm.<br>59.06 x 70.87 in.<br>2020<br>Acrylic on canvas<br>Signed",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Painting",
+        "ImagePaths": [
+            "20_0.jpg"
+        ]
+    },
+    {
+        "ID": 21,
+        "Title": "Untitled",
+        "Description": "120.00 x 160.00 cm.<br>47.24 x 62.99 in.<br>Acrylic on canvas<br>Signed",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Painting",
+        "ImagePaths": [
+            "21_0.jpg"
+        ]
+    },
+    {
+        "ID": 22,
+        "Title": "Untitled",
+        "Description": "100.00 x 70.00 cm.<br>39.37 x 27.56 in.<br>Mixed media on canvas<br>Signed",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Painting",
+        "ImagePaths": [
+            "22_0.jpg"
+        ]
+    },
+    {
+        "ID": 23,
+        "Title": "Untitled",
+        "Description": "60.00 x 80.00 cm.<br>23.62 x 31.50 in.<br>2018<br>Mixed media on canvas<br>Signed",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Painting",
+        "ImagePaths": [
+            "23_0.jpg"
+        ]
+    },
+    {
+        "ID": 24,
+        "Title": "Untitled",
+        "Description": "R: 130 cm.<br>R: 130 cm.<br>Signed",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Mixed Media",
+        "ImagePaths": [
+            "24_0.jpg"
+        ]
+    },
+    {
+        "ID": 25,
+        "Title": "Untitled",
+        "Description": "100.00 x 140.00 cm.<br>39.37 x 55.12 in.<br>2019<br>Mixed media and photo penture on canvas<br>Signed",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Mixed Media",
+        "ImagePaths": [
+            "25_0.jpg"
+        ]
+    },
+    {
+        "ID": 26,
+        "Title": "Untitled",
+        "Description": "80.00 x 120.00 cm.<br>31.50 x 47.24 in.<br>Acrylic and mixed media on canvas<br>Signed",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Painting",
+        "ImagePaths": [
+            "26_0.jpg"
+        ]
+    },
+    {
+        "ID": 27,
+        "Title": "Untitled",
+        "Description": "Signed",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Painting",
+        "ImagePaths": [
+            "27_0.jpg"
+        ]
+    },
+    {
+        "ID": 28,
+        "Title": "Untitled",
+        "Description": "Signed",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Painting",
+        "ImagePaths": [
+            "28_0.jpg"
+        ]
+    },
+    {
+        "ID": 29,
+        "Title": "Untitled",
+        "Description": "Signed",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Painting",
+        "ImagePaths": [
+            "29_0.jpg"
+        ]
+    },
+    {
+        "ID": 30,
+        "Title": "Untitled",
+        "Description": "70.00 x 50.00 cm.<br>27.56 x 19.69 in.<br>Signed",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Painting",
+        "ImagePaths": [
+            "30_0.jpg"
+        ]
+    },
+    {
+        "ID": 31,
+        "Title": "Untitled",
+        "Description": "70.00 x 50.00 cm.<br>27.56 x 19.69 in.<br>Signed",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Painting",
+        "ImagePaths": [
+            "31_0.jpg"
+        ]
+    },
+    {
+        "ID": 32,
+        "Title": "Untitled",
+        "Description": "70.00 x 140.00 cm.<br>27.56 x 55.12 in.<br>Signed",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Painting",
+        "ImagePaths": [
+            "32_0.jpg"
+        ]
+    },
+    {
+        "ID": 33,
+        "Title": "Untitled",
+        "Description": "70.00 x 50.00 cm.<br>27.56 x 19.69 in.<br>Signed",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Painting",
+        "ImagePaths": [
+            "33_0.jpg"
+        ]
+    },
+    {
+        "ID": 34,
+        "Title": "Untitled",
+        "Description": "70.00 x 70.00 cm.<br>27.56 x 27.56 in.<br>Signed",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Painting",
+        "ImagePaths": [
+            "34_0.jpg"
+        ]
+    },
+    {
+        "ID": 35,
+        "Title": "Untitled",
+        "Description": "30.00 x 30.00 cm.<br>11.81 x 11.81 in.<br>2018<br>Mixed media on canvas<br>Signed",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Painting",
+        "ImagePaths": [
+            "35_0.jpg"
+        ]
+    },
+    {
+        "ID": 36,
+        "Title": "Untitled",
+        "Description": "30.00 x 70.00 cm.<br>11.81 x 27.56 in.<br>2018<br>Mixed media on canvas<br>Signed",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Painting",
+        "ImagePaths": [
+            "36_0.jpg"
+        ]
+    },
+    {
+        "ID": 37,
+        "Title": "Untitled",
+        "Description": "86.00 x 120.00 cm.<br>33.86 x 47.24 in.<br>2018<br>Mixed media on canvas<br>Signed",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Painting",
+        "ImagePaths": [
+            "37_0.jpg"
+        ]
+    },
+    {
+        "ID": 38,
+        "Title": "Untitled",
+        "Description": "<p>70.00 x 360.00 cm.<br>27.56 x 141.73 in.<br>2018<br>Acrylic<br>Signed<br>The work consists of 5 parts each piece may be sold separately</p>",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Painting",
+        "ImagePaths": [
+            "38_0.jpg"
+        ]
+    },
+    {
+        "ID": 39,
+        "Title": "Untitled",
+        "Description": "30.00 x 60.00 cm.<br>11.81 x 23.62 in.<br>2018<br>Mixed media on canvas<br>Signed",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Painting",
+        "ImagePaths": [
+            "39_0.jpg"
+        ]
+    },
+    {
+        "ID": 40,
+        "Title": "Untitled",
+        "Description": "60.00 x 40.00 cm.<br>23.62 x 15.75 in.<br>2017<br>Mixed media on canvas<br>Signed",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Painting",
+        "ImagePaths": [
+            "40_0.jpg"
+        ]
+    },
+    {
+        "ID": 41,
+        "Title": "Untitled",
+        "Description": "50.00 x 115.00 cm.<br>19.69 x 45.28 in.<br>2018<br>Mixed media on canvas<br>Signed",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Painting",
+        "ImagePaths": [
+            "41_0.jpg"
+        ]
+    },
+    {
+        "ID": 42,
+        "Title": "Wedding Peshtemali",
+        "Description": "50.00 x 115.00 cm.<br>19.69 x 45.28 in.<br>2018<br>Mixed media on canvas<br>Signed",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Painting",
+        "ImagePaths": [
+            "42_0.jpg"
+        ]
+    },
+    {
+        "ID": 43,
+        "Title": "Untitled",
+        "Description": "30.00 x 60.00 cm.<br>11.81 x 23.62 in.<br>2018<br>Mixed media on canvas<br>Signed",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Painting",
+        "ImagePaths": [
+            "43_0.jpg"
+        ]
+    },
+    {
+        "ID": 44,
+        "Title": "Untitled",
+        "Description": "50.00 x 115.00 cm.<br>19.69 x 45.28 in.<br>2017<br>Mixed media<br>Signed",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Mixed Media",
+        "ImagePaths": [
+            "44_0.jpg"
+        ]
+    },
+    {
+        "ID": 45,
+        "Title": "Untitled",
+        "Description": "30.00 x 60.00 cm.<br>11.81 x 23.62 in.<br>2018<br>Mixed media on canvas<br>Signed",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Painting",
+        "ImagePaths": [
+            "45_0.jpg"
+        ]
+    },
+    {
+        "ID": 46,
+        "Title": "Foggy Mountains No:2",
+        "Description": "50.00 x 115.00 cm.<br>19.69 x 45.28 in.<br>2018<br>Mixed media on canvas<br>Signed",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Painting",
+        "ImagePaths": [
+            "46_0.jpg"
+        ]
+    },
+    {
+        "ID": 47,
+        "Title": "Foggy Mountains No:1",
+        "Description": "50.00 x 115.00 cm.<br>19.69 x 45.28 in.<br>2018<br>Mixed media on canvas<br>Signed",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Painting",
+        "ImagePaths": [
+            "47_0.jpg"
+        ]
+    },
+    {
+        "ID": 48,
+        "Title": "Untitled",
+        "Description": "30.00 x 30.00 cm.<br>11.81 x 11.81 in.<br>2018<br>Acrylic on canvas<br>Signed",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Painting",
+        "ImagePaths": [
+            "48_0.jpg"
+        ]
+    },
+    {
+        "ID": 49,
+        "Title": "Untitled",
+        "Description": "30.00 x 30.00 cm.<br>11.81 x 11.81 in.<br>2018<br>Mixed media on canvas<br>Signed",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Painting",
+        "ImagePaths": [
+            "49_0.jpg"
+        ]
+    },
+    {
+        "ID": 50,
+        "Title": "Untitled",
+        "Description": "40.00 x 120.00 cm.<br>15.75 x 47.24 in.<br>2017<br>Mixed media on canvas<br>Signed",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Painting",
+        "ImagePaths": [
+            "50_0.jpg"
+        ]
+    },
+    {
+        "ID": 51,
+        "Title": "Untitled",
+        "Description": "30.00 x 30.00 cm.<br>11.81 x 11.81 in.<br>2018<br>Mixed media on canvas<br>Signed",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Painting",
+        "ImagePaths": [
+            "51_0.jpg"
+        ]
+    },
+    {
+        "ID": 52,
+        "Title": "Untitled",
+        "Description": "30.00 x 30.00 cm.<br>11.81 x 11.81 in.<br>2018<br>Mixed media on canvas<br>Signed",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Painting",
+        "ImagePaths": [
+            "52_0.jpg"
+        ]
+    },
+    {
+        "ID": 53,
+        "Title": "Untitled",
+        "Description": "86.00 x 120.00 cm.<br>33.86 x 47.24 in.<br>2018<br>Mixed media on canvas<br>Signed",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Painting",
+        "ImagePaths": [
+            "53_0.jpg"
+        ]
+    },
+    {
+        "ID": 54,
+        "Title": "Untitled",
+        "Description": "50.00 x 115.00 cm.<br>19.69 x 45.28 in.<br>2018<br>Mixed media on canvas<br>Signed",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Painting",
+        "ImagePaths": [
+            "54_0.jpg"
+        ]
+    },
+    {
+        "ID": 55,
+        "Title": "Untitled",
+        "Description": "60.00 x 60.00 cm.<br>23.62 x 23.62 in.<br>2018<br>Mixed media on canvas<br>Signed",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Painting",
+        "ImagePaths": [
+            "55_0.jpg"
+        ]
+    },
+    {
+        "ID": 56,
+        "Title": "Untitled",
+        "Description": "60.00 x 40.00 cm.<br>23.62 x 15.75 in.<br>Acrylic on canvas<br>Signed",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Painting",
+        "ImagePaths": [
+            "56_0.jpg"
+        ]
+    },
+    {
+        "ID": 57,
+        "Title": "Untitled",
+        "Description": "50.00 x 62.00 cm.<br>19.69 x 24.41 in.<br>2018<br>Signed<br>Acrylic and gold leaf on original print<br>Artist edition 1/1",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Print",
+        "ImagePaths": [
+            "57_0.jpg"
+        ]
+    },
+    {
+        "ID": 58,
+        "Title": "Untitled",
+        "Description": "55.00 x 75.00 cm.<br>21.65 x 29.53 in.<br>2018<br>Signed<br>Acrylic and gold leaf on original print<br>Artist edition",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Print",
+        "ImagePaths": [
+            "58_0.jpg"
+        ]
+    },
+    {
+        "ID": 59,
+        "Title": "Untitled",
+        "Description": "27.00 x 17.50 cm.<br>10.63 x 6.89 in.<br>Signed",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Print",
+        "ImagePaths": [
+            "59_0.jpg"
+        ]
+    },
+    {
+        "ID": 60,
+        "Title": "Untitled",
+        "Description": "27.00 x 17.50 cm.<br>10.63 x 6.89 in.<br>Signed",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Print",
+        "ImagePaths": [
+            "60_0.jpg"
+        ]
+    },
+    {
+        "ID": 61,
+        "Title": "Untitled",
+        "Description": "39.00 x 28.00 cm.<br>15.35 x 11.02 in.<br>Signed<br>1/10",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Print",
+        "ImagePaths": [
+            "61_0.jpg"
+        ]
+    },
+    {
+        "ID": 62,
+        "Title": "Untitled",
+        "Description": "53.00 x 19.50 cm.<br>20.87 x 7.68 in.<br>Signed<br>E/A",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Print",
+        "ImagePaths": [
+            "62_0.jpg",
+            "62_1.jpg",
+            "62_2.jpg"
+        ]
+    },
+    {
+        "ID": 63,
+        "Title": "Untitled",
+        "Description": "40.00 x 120.00 cm.<br>15.75 x 47.24 in.<br>Mixed media<br>Signed",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Mixed Media",
+        "ImagePaths": [
+            "63_0.jpg",
+            "63_1.jpg",
+            "63_2.jpg",
+            "63_3.jpg",
+            "63_4.jpg"
+        ]
+    },
+    {
+        "ID": 64,
+        "Title": "Untitled",
+        "Description": "40.00 x 90.00 cm.<br>15.75 x 35.43 in.<br>Acrylic and mixed media on canvas<br>Signed",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Painting",
+        "ImagePaths": [
+            "64_0.jpg"
+        ]
+    },
+    {
+        "ID": 65,
+        "Title": "Untitled",
+        "Description": "Signed",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Mixed Media",
+        "ImagePaths": [
+            "65_0.jpg"
+        ]
+    },
+    {
+        "ID": 66,
+        "Title": "Untitled",
+        "Description": "100.00 x 100.00 cm.<br>39.37 x 39.37 in.<br>Signed",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Mixed Media",
+        "ImagePaths": [
+            "66_0.jpg"
+        ]
+    },
+    {
+        "ID": 67,
+        "Title": "Untitled",
+        "Description": "40.00 x 160.00 cm.<br>15.75 x 62.99 in.<br>2018<br>Mixed media on canvas<br>Signed",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Painting",
+        "ImagePaths": [
+            "67_0.jpg"
+        ]
+    },
+    {
+        "ID": 68,
+        "Title": "Untitled",
+        "Description": "40.00 x 160.00 cm.<br>15.75 x 62.99 in.<br>2018<br>Mixed media on canvas<br>Signed",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Painting",
+        "ImagePaths": [
+            "68_0.jpg"
+        ]
+    },
+    {
+        "ID": 69,
+        "Title": "Nothing",
+        "Description": "53.00 x 50.00 cm.<br>20.87 x 19.69 in.<br>2017<br>Engraving<br>Signed<br>Artist Improvisation 1/1",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Print",
+        "ImagePaths": [
+            "69_0.jpg",
+            "69_1.jpg",
+            "69_2.jpg",
+            "69_3.jpg"
+        ]
+    },
+    {
+        "ID": 70,
+        "Title": "Dawn",
+        "Description": "26.00 x 78.00 cm.<br>10.24 x 30.71 in.<br>Original Print<br>Signed<br>EA",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Print",
+        "ImagePaths": [
+            "70_0.jpg"
+        ]
+    },
+    {
+        "ID": 71,
+        "Title": "Untitled",
+        "Description": "33.00 x 24.00 cm.<br>12.99 x 9.45 in.<br>2017<br>Engraving<br>Signed<br>3/10",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Print",
+        "ImagePaths": [
+            "71_0.jpg",
+            "71_1.jpg",
+            "71_2.jpg"
+        ]
+    },
+    {
+        "ID": 72,
+        "Title": "Woods",
+        "Description": "50.00 x 40.00 cm.<br>19.69 x 15.75 in.<br>Engraving<br>Signed<br>EA",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Print",
+        "ImagePaths": [
+            "72_0.jpg"
+        ]
+    },
+    {
+        "ID": 73,
+        "Title": "Untitled",
+        "Description": "33.00 x 24.00 cm.<br>12.99 x 9.45 in.<br>Engraving<br>Signed<br>EA",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Print",
+        "ImagePaths": [
+            "73_0.jpg",
+            "73_1.jpg"
+        ]
+    },
+    {
+        "ID": 74,
+        "Title": "Space",
+        "Description": "30.00 x 20.00 cm.<br>11.81 x 7.87 in.<br>Signed<br>Mezzotint press on hand made paper EA",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Print",
+        "ImagePaths": [
+            "74_0.jpg"
+        ]
+    },
+    {
+        "ID": 75,
+        "Title": "Space",
+        "Description": "53.00 x 20.00 cm.<br>20.87 x 7.87 in.<br>Engraving<br>Signed<br>1/10 mezzotint presd",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Print",
+        "ImagePaths": [
+            "75_0.jpg",
+            "75_1.jpg",
+            "75_2.jpg",
+            "75_3.jpg"
+        ]
+    },
+    {
+        "ID": 76,
+        "Title": "Nothing",
+        "Description": "39.00 x 53.00 cm.<br>15.35 x 20.87 in.<br>Signed",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Print",
+        "ImagePaths": [
+            "76_0.jpg"
+        ]
+    },
+    {
+        "ID": 77,
+        "Title": "Way",
+        "Description": "30.00 x 45.00 cm.<br>11.81 x 17.72 in.<br>Original Print<br>Signed<br>1/10",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Print",
+        "ImagePaths": [
+            "77_0.jpg"
+        ]
+    },
+    {
+        "ID": 78,
+        "Title": "Untitled",
+        "Description": "120.00 x 60.00 cm.<br>47.24 x 23.62 in.<br>Mixed media on canvas<br>Signed",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Mixed Media",
+        "ImagePaths": [
+            "78_0.jpg"
+        ]
+    },
+    {
+        "ID": 79,
+        "Title": "Untitled",
+        "Description": "20.00 x 7.00 x 8.00 cm.<br>7.87 x 2.76 x 3.15 in.<br>2020<br>Bronze<br>Signed",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Sculpture",
+        "ImagePaths": [
+            "79_0.jpg"
+        ]
+    },
+    {
+        "ID": 80,
+        "Title": "Untitled",
+        "Description": "98.00 x 30.00 x 20.00 cm.<br>38.58 x 11.81 x 7.87 in.<br>Bronze<br>Signed<br>1/5 Private collection",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Sculpture",
+        "ImagePaths": [
+            "80_0.jpg"
+        ]
+    },
+    {
+        "ID": 81,
+        "Title": "Untitled",
+        "Description": "R: 20 cm.<br>R: 20 cm.<br>Bronze<br>Signed",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Sculpture",
+        "ImagePaths": [
+            "81_0.jpg"
+        ]
+    },
+    {
+        "ID": 82,
+        "Title": "Untitled",
+        "Description": "27.00 x 18.00 x 20.00 cm.<br>10.63 x 7.09 x 7.87 in.<br>Signed",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Sculpture",
+        "ImagePaths": [
+            "82_0.jpg"
+        ]
+    },
+    {
+        "ID": 83,
+        "Title": "Untitled",
+        "Description": "40.00 x 16.00 x 1.00 cm.<br>15.75 x 6.30 x 0.39 in.<br>Signed<br>Private collection Atina-Greece",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Sculpture",
+        "ImagePaths": [
+            "83_0.jpg"
+        ]
+    },
+    {
+        "ID": 84,
+        "Title": "Untitled",
+        "Description": "40.00 x 16.00 x 1.00 cm.<br>15.75 x 6.30 x 0.39 in.<br>Signed<br>Private collection Atina-Greece",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Sculpture",
+        "ImagePaths": [
+            "84_0.jpg"
+        ]
+    },
+    {
+        "ID": 85,
+        "Title": "Untitled",
+        "Description": "22.00 x 13.00 x 6.00 cm.<br>8.66 x 5.12 x 2.36 in.<br>2020<br>Bronze<br>Signed",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Sculpture",
+        "ImagePaths": [
+            "85_0.jpg"
+        ]
+    },
+    {
+        "ID": 86,
+        "Title": "Untitled",
+        "Description": "22.00 x 12.00 x 9.00 cm.<br>8.66 x 4.72 x 3.54 in.<br>2018<br>Bronze<br>Signed",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Sculpture",
+        "ImagePaths": [
+            "86_0.jpg"
+        ]
+    },
+    {
+        "ID": 87,
+        "Title": "Pendulum No:2",
+        "Description": "10.00 x 11.00 x 9.00 cm.<br>3.94 x 4.33 x 3.54 in.<br>2019<br>Bronze<br>Signed",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Sculpture",
+        "ImagePaths": [
+            "87_0.jpg"
+        ]
+    },
+    {
+        "ID": 88,
+        "Title": "Untitled",
+        "Description": "17.00 x 22.00 x 7.00 cm.<br>6.69 x 8.66 x 2.76 in.<br>2015<br>Bronze and wood<br>Signed",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Sculpture",
+        "ImagePaths": [
+            "88_0.jpg"
+        ]
+    },
+    {
+        "ID": 89,
+        "Title": "Doors",
+        "Description": "Doors<br>R: 60 cm h: 40 cm<br>R: 60 cm h: 40 cm<br>2018<br>Mixed media on wood<br>Signed",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Sculpture",
+        "ImagePaths": [
+            "89_0.jpg",
+            "89_1.jpg"
+        ]
+    },
+    {
+        "ID": 90,
+        "Title": "Pebbles",
+        "Description": "R: 60 cm h: 40 cm<br>R: 60 cm h: 40 cm<br>2018<br>Mixed media on wood<br>Signed",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Sculpture",
+        "ImagePaths": [
+            "90_0.jpg"
+        ]
+    },
+    {
+        "ID": 91,
+        "Title": "Kirkit",
+        "Description": "17.00 x 22.00 x 10.00 cm.<br>6.69 x 8.66 x 3.94 in.<br>2015<br>Bronze sculpture<br>Signed",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Sculpture",
+        "ImagePaths": [
+            "91_0.jpg"
+        ]
+    },
+    {
+        "ID": 92,
+        "Title": "Untitled",
+        "Description": "15.00 x 5.00 x 6.00 cm.<br>5.91 x 1.97 x 2.36 in.<br>2004<br>Bronze sculpture<br>Signed",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Sculpture",
+        "ImagePaths": [
+            "92_0.jpg"
+        ]
+    },
+    {
+        "ID": 93,
+        "Title": "Taka 2018",
+        "Description": "10.00 x 28.00 x 13.00 cm.<br>3.94 x 11.02 x 5.12 in.<br>Bronze<br>Signed",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Sculpture",
+        "ImagePaths": [
+            "93_0.jpg",
+            "93_1.jpg"
+        ]
+    },
+    {
+        "ID": 94,
+        "Title": "Sirat",
+        "Description": "15.00 x 15.00 x 32.00 cm.<br>5.91 x 5.91 x 12.60 in.<br>Signed<br>Private collection Canada",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Sculpture",
+        "ImagePaths": [
+            "94_0.jpg"
+        ]
+    },
+    {
+        "ID": 95,
+        "Title": "Untitled",
+        "Description": "Signed<br>11<br>Private collection USA",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Sculpture",
+        "ImagePaths": [
+            "95_0.jpg"
+        ]
+    },
+    {
+        "ID": 96,
+        "Title": "Untitled",
+        "Description": "Signed<br>1/1<br>Private collection Bodrum-Mu\u0192\u00fcla",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Sculpture",
+        "ImagePaths": [
+            "96_0.jpg"
+        ]
+    },
+    {
+        "ID": 97,
+        "Title": "Untitled",
+        "Description": "Bronze<br>Signed<br>1/1<br>Private collection Istanbul",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Sculpture",
+        "ImagePaths": [
+            "97_0.jpg"
+        ]
+    },
+    {
+        "ID": 98,
+        "Title": "Untitled",
+        "Description": "R: 45 cm h: 30 cm<br>R: 45 cm h: 30 cm<br>Signed",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Sculpture",
+        "ImagePaths": [
+            "98_0.jpg"
+        ]
+    },
+    {
+        "ID": 99,
+        "Title": "My Boots",
+        "Description": "Signed",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Sculpture",
+        "ImagePaths": [
+            "99_0.jpg"
+        ]
+    },
+    {
+        "ID": 100,
+        "Title": "Madonna",
+        "Description": "Bronze<br>Signed",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Sculpture",
+        "ImagePaths": [
+            "100_0.jpg"
+        ]
+    },
+    {
+        "ID": 101,
+        "Title": "Untitled",
+        "Description": "110.00 x 10.00 x 10.00 cm.<br>43.31 x 3.94 x 3.94 in.<br>Signed<br>Private Collection Floransa",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Sculpture",
+        "ImagePaths": [
+            "101_0.jpg"
+        ]
+    },
+    {
+        "ID": 102,
+        "Title": "Untitled",
+        "Description": "40.00 x 16.00 x 1.00 cm.<br>15.75 x 6.30 x 0.39 in.<br>Signed<br>Private collection Atina-Greece",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Sculpture",
+        "ImagePaths": [
+            "102_0.jpg"
+        ]
+    },
+    {
+        "ID": 103,
+        "Title": "Untitled",
+        "Description": "Signed",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Sculpture",
+        "ImagePaths": [
+            "103_0.jpg"
+        ]
+    },
+    {
+        "ID": 104,
+        "Title": "Untitled",
+        "Description": "40.00 x 20.00 x 1.00 cm.<br>15.75 x 7.87 x 0.39 in.<br>Signed",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Sculpture",
+        "ImagePaths": [
+            "104_0.jpg"
+        ]
+    },
+    {
+        "ID": 105,
+        "Title": "Untitled",
+        "Description": "40.00 x 90.00 x 2.00 cm.<br>15.75 x 35.43 x 0.79 in.<br>Signed<br>\u221a\u00f1zel koleksiyon Netharlands",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Sculpture",
+        "ImagePaths": [
+            "105_0.jpg"
+        ]
+    },
+    {
+        "ID": 106,
+        "Title": "Untitled",
+        "Description": "30.00 x 12.00 x 1.00 cm.<br>11.81 x 4.72 x 0.39 in.<br>Signed",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Sculpture",
+        "ImagePaths": [
+            "106_0.jpg"
+        ]
+    },
+    {
+        "ID": 107,
+        "Title": "Untitled",
+        "Description": "24.00 x 15.00 x 1.00 cm.<br>9.45 x 5.91 x 0.39 in.<br>Signed",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Sculpture",
+        "ImagePaths": [
+            "107_0.jpg"
+        ]
+    },
+    {
+        "ID": 108,
+        "Title": "Untitled",
+        "Description": "30.00 x 15.00 x 1.00 cm.<br>11.81 x 5.91 x 0.39 in.<br>Signed",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Sculpture",
+        "ImagePaths": [
+            "108_0.jpg"
+        ]
+    },
+    {
+        "ID": 109,
+        "Title": "Untitled",
+        "Description": "65.50 x 42.50 x 4.00 cm.<br>25.79 x 16.73 x 1.57 in.<br>Signed",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Sculpture",
+        "ImagePaths": [
+            "109_0.jpg"
+        ]
+    },
+    {
+        "ID": 110,
+        "Title": "Untitled",
+        "Description": "24.00 x 22.00 x 21.00 cm.<br>9.45 x 8.66 x 8.27 in.<br>Bronze sculpture<br>Signed",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Sculpture",
+        "ImagePaths": [
+            "110_0.jpg"
+        ]
+    },
+    {
+        "ID": 111,
+        "Title": "Untitled",
+        "Description": "Bronze<br>Signed",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Sculpture",
+        "ImagePaths": [
+            "111_0.jpg"
+        ]
+    },
+    {
+        "ID": 112,
+        "Title": "Untitled",
+        "Description": "90.00 x 40.00 x 2.00 cm.<br>35.43 x 15.75 x 0.79 in.<br>Bronze<br>Signed",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Sculpture",
+        "ImagePaths": [
+            "112_0.jpg"
+        ]
+    },
+    {
+        "ID": 113,
+        "Title": "Untitled",
+        "Description": "42.00 x 40.00 x 60.00 cm.<br>16.54 x 15.75 x 23.62 in.<br>Bronze<br>Signed",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Sculpture",
+        "ImagePaths": [
+            "113_0.jpg"
+        ]
+    },
+    {
+        "ID": 114,
+        "Title": "Plate 2 Detail",
+        "Description": "2008<br>Bronze<br>Signed",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Sculpture",
+        "ImagePaths": [
+            "114_0.jpg"
+        ]
+    },
+    {
+        "ID": 115,
+        "Title": "Untitled",
+        "Description": "120.00 x 65.00 x 4.00 cm.<br>47.24 x 25.59 x 1.57 in.<br>Bronze<br>Signed",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Sculpture",
+        "ImagePaths": [
+            "115_0.jpg"
+        ]
+    },
+    {
+        "ID": 116,
+        "Title": "Untitled",
+        "Description": "38.00 x 40.00 x 65.00 cm.<br>14.96 x 15.75 x 25.59 in.<br>Copper<br>Signed",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Sculpture",
+        "ImagePaths": [
+            "116_0.jpg"
+        ]
+    },
+    {
+        "ID": 117,
+        "Title": "Untitled",
+        "Description": "20.00 x 22.00 x 24.00 cm.<br>7.87 x 8.66 x 9.45 in.<br>Bronze<br>Signed",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Sculpture",
+        "ImagePaths": [
+            "117_0.jpg"
+        ]
+    },
+    {
+        "ID": 118,
+        "Title": "Untitled",
+        "Description": "59.00 x 20.00 x 15.00 cm.<br>23.23 x 7.87 x 5.91 in.<br>Bronze<br>Signed",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Sculpture",
+        "ImagePaths": [
+            "118_0.jpg"
+        ]
+    },
+    {
+        "ID": 119,
+        "Title": "Untitled",
+        "Description": "22.00 x 48.00 x 25.00 cm.<br>8.66 x 18.90 x 9.84 in.<br>Bronze<br>Signed",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Sculpture",
+        "ImagePaths": [
+            "119_0.jpg"
+        ]
+    },
+    {
+        "ID": 120,
+        "Title": "Untitled",
+        "Description": "20.00 x 20.00 x 30.00 cm.<br>7.87 x 7.87 x 11.81 in.<br>Bronze<br>Signed<br>Private collection \u0192\u221estanbul",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Sculpture",
+        "ImagePaths": [
+            "120_0.jpg"
+        ]
+    },
+    {
+        "ID": 121,
+        "Title": "Untitled",
+        "Description": "35.00 x 23.00 x 27.00 cm.<br>13.78 x 9.06 x 10.63 in.<br>Bronze<br>Signed",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Sculpture",
+        "ImagePaths": [
+            "121_0.jpg"
+        ]
+    },
+    {
+        "ID": 122,
+        "Title": "Untitled",
+        "Description": "24.00 x 40.00 x 1.00 cm.<br>9.45 x 15.75 x 0.39 in.<br>Bronze<br>Signed",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Sculpture",
+        "ImagePaths": [
+            "122_0.jpg"
+        ]
+    },
+    {
+        "ID": 123,
+        "Title": "Untitled",
+        "Description": "90.00 x 40.00 x 2.00 cm.<br>35.43 x 15.75 x 0.79 in.<br>Bronze<br>Signed",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Sculpture",
+        "ImagePaths": [
+            "123_0.jpg"
+        ]
+    },
+    {
+        "ID": 124,
+        "Title": "Untitled",
+        "Description": "40.00 x 90.00 x 2.00 cm.<br>15.75 x 35.43 x 0.79 in.<br>2008<br>Bronze<br>Signed",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Sculpture",
+        "ImagePaths": [
+            "124_0.jpg"
+        ]
+    },
+    {
+        "ID": 125,
+        "Title": "Untitled",
+        "Description": "24.00 x 40.00 x 2.00 cm.<br>9.45 x 15.75 x 0.79 in.<br>Bronze<br>Signed",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Sculpture",
+        "ImagePaths": [
+            "125_0.jpg"
+        ]
+    },
+    {
+        "ID": 126,
+        "Title": "Untitled",
+        "Description": "20.00 x 40.00 x 1.00 cm.<br>7.87 x 15.75 x 0.39 in.<br>Bronze<br>Signed<br>Private collection Bodrum-Mu\u0192\u00fcla<br>",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Sculpture",
+        "ImagePaths": [
+            "126_0.jpg"
+        ]
+    },
+    {
+        "ID": 127,
+        "Title": "Untitled",
+        "Description": "8.00 x 7.00 x 5.00 cm.<br>3.15 x 2.76 x 1.97 in.<br>Silver<br>Signed<br>Bodrum/Mugla Private Collection",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Sculpture",
+        "ImagePaths": [
+            "127_0.jpg"
+        ]
+    },
+    {
+        "ID": 128,
+        "Title": "Untitled",
+        "Description": "8.00 x 7.00 x 5.00 cm.<br>3.15 x 2.76 x 1.97 in.<br>Silver<br>Signed<br>Bodrum/Mugla Private Collection<br>",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Sculpture",
+        "ImagePaths": [
+            "128_0.jpg"
+        ]
+    },
+    {
+        "ID": 129,
+        "Title": "Untitled",
+        "Description": "8.00 x 7.00 x 5.00 cm.<br>3.15 x 2.76 x 1.97 in.<br>Signed",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Sculpture",
+        "ImagePaths": [
+            "129_0.jpg"
+        ]
+    },
+    {
+        "ID": 130,
+        "Title": "Untitled",
+        "Description": "118.00 x 35.00 x 22.00 cm.<br>46.46 x 13.78 x 8.66 in.<br>Signed<br>Papier Mache Private collection Istanbul",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Sculpture",
+        "ImagePaths": [
+            "130_0.jpg"
+        ]
+    },
+    {
+        "ID": 131,
+        "Title": "Untitled",
+        "Description": "110.00 x 50.00 x 40.00 cm.<br>43.31 x 19.69 x 15.75 in.<br>Signed<br>Papier Mache",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Sculpture",
+        "ImagePaths": [
+            "131_0.jpg"
+        ]
+    },
+    {
+        "ID": 132,
+        "Title": "From Hay to Hu",
+        "Description": "13.00 x 18.00 x 38.00 cm.<br>5.12 x 7.09 x 14.96 in.<br>Silver<br>Signed",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Sculpture",
+        "ImagePaths": [
+            "132_0.jpg"
+        ]
+    },
+    {
+        "ID": 133,
+        "Title": "Seal",
+        "Description": "12.00 x 34.00 x 24.00 cm.<br>4.72 x 13.39 x 9.45 in.<br>Silver<br>Signed<br>Private collection Istanbul",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Sculpture",
+        "ImagePaths": [
+            "133_0.jpg"
+        ]
+    },
+    {
+        "ID": 134,
+        "Title": "Spinning Wheel",
+        "Description": "42.00 x 14.00 x 35.00 cm.<br>16.54 x 5.51 x 13.78 in.<br>Signed",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Sculpture",
+        "ImagePaths": [
+            "134_0.jpg"
+        ]
+    },
+    {
+        "ID": 135,
+        "Title": "Waiting",
+        "Description": "24.00 x 20.00 x 38.00 cm.<br>9.45 x 7.87 x 14.96 in.<br>Silver<br>Signed<br>Private collection Istanbul",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Sculpture",
+        "ImagePaths": [
+            "135_0.jpg"
+        ]
+    },
+    {
+        "ID": 136,
+        "Title": "Untitled",
+        "Description": "24.00 x 8.00 x 11.00 cm.<br>9.45 x 3.15 x 4.33 in.<br>Signed<br>Private Collection \u0192\u221estanbul",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Sculpture",
+        "ImagePaths": [
+            "136_0.jpg"
+        ]
+    },
+    {
+        "ID": 137,
+        "Title": "Untitled",
+        "Description": "40.00 x 11.00 x 13.00 cm.<br>15.75 x 4.33 x 5.12 in.<br>Signed<br>",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Sculpture",
+        "ImagePaths": [
+            "137_0.jpg"
+        ]
+    },
+    {
+        "ID": 138,
+        "Title": "Untitled",
+        "Description": "26.00 x 18.00 x 15.00 cm.<br>10.24 x 7.09 x 5.91 in.<br>Signed",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Sculpture",
+        "ImagePaths": [
+            "138_0.jpg"
+        ]
+    },
+    {
+        "ID": 139,
+        "Title": "Untitled",
+        "Description": "40.00 x 20.00 x 20.00 cm.<br>15.75 x 7.87 x 7.87 in.<br>Signed",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Sculpture",
+        "ImagePaths": [
+            "139_0.jpg"
+        ]
+    },
+    {
+        "ID": 140,
+        "Title": "Untitled",
+        "Description": "28.00 x 15.00 x 18.00 cm.<br>11.02 x 5.91 x 7.09 in.<br>Signed",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Sculpture",
+        "ImagePaths": [
+            "140_0.jpg"
+        ]
+    },
+    {
+        "ID": 141,
+        "Title": "Untitled",
+        "Description": "50.00 x 10.00 x 15.00 cm.<br>19.69 x 3.94 x 5.91 in.<br>Silver<br>Signed<br>Private collection",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Sculpture",
+        "ImagePaths": [
+            "141_0.jpg"
+        ]
+    },
+    {
+        "ID": 142,
+        "Title": "Untitled",
+        "Description": "15.00 x 20.00 x 60.00 cm.<br>5.91 x 7.87 x 23.62 in.<br>2008<br>Aluminium<br>Signed<br>Beijing Olympics Selected Fine Arts\u201a\u00c4\u00f9 Catalog",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Sculpture",
+        "ImagePaths": [
+            "142_0.jpg"
+        ]
+    },
+    {
+        "ID": 143,
+        "Title": "Untitled",
+        "Description": "6.00 x 6.00 x 22.00 cm.<br>2.36 x 2.36 x 8.66 in.<br>2006<br>Bronze sculpture<br>Signed",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Sculpture",
+        "ImagePaths": [
+            "143_0.jpg"
+        ]
+    },
+    {
+        "ID": 144,
+        "Title": "Untitled",
+        "Description": "20.00 x 20.00 x 30.00 cm.<br>7.87 x 7.87 x 11.81 in.<br>2006<br>Bronze sculpture<br>Signed<br>Private Collection Turkey",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Sculpture",
+        "ImagePaths": [
+            "144_0.jpg"
+        ]
+    },
+    {
+        "ID": 145,
+        "Title": "Untitled",
+        "Description": "22.00 x 42.00 x 12.00 cm.<br>8.66 x 16.54 x 4.72 in.<br>2005<br>Bronze sculpture<br>Signed<br>Private collection \u0192\u221estanbul",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Sculpture",
+        "ImagePaths": [
+            "145_0.jpg"
+        ]
+    },
+    {
+        "ID": 146,
+        "Title": "Untitled",
+        "Description": "16.00 x 12.00 x 18.00 cm.<br>6.30 x 4.72 x 7.09 in.<br>Ceramic<br>Signed<br>Private collection",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Sculpture",
+        "ImagePaths": [
+            "146_0.jpg"
+        ]
+    },
+    {
+        "ID": 147,
+        "Title": "Untitled",
+        "Description": "40.00 x 45.00 x 70.00 cm.<br>15.75 x 17.72 x 27.56 in.<br>Ceramic<br>Signed",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Sculpture",
+        "ImagePaths": [
+            "147_0.jpg"
+        ]
+    },
+    {
+        "ID": 148,
+        "Title": "Untitled",
+        "Description": "16.00 x 7.00 x 22.00 cm.<br>6.30 x 2.76 x 8.66 in.<br>Ceramic and bronze<br>Signed<br>Private collection",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Sculpture",
+        "ImagePaths": [
+            "148_0.jpg"
+        ]
+    },
+    {
+        "ID": 149,
+        "Title": "Untitled",
+        "Description": "18.00 x 9.00 x 21.00 cm.<br>7.09 x 3.54 x 8.27 in.<br>Ceramic<br>Signed<br>Private collection \u0192\u221estanbul",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Sculpture",
+        "ImagePaths": [
+            "149_0.jpg"
+        ]
+    },
+    {
+        "ID": 150,
+        "Title": "Untitled",
+        "Description": "8.00 x 9.00 x 28.00 cm.<br>3.15 x 3.54 x 11.02 in.<br>Ceramic and bronze<br>Signed",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Sculpture",
+        "ImagePaths": [
+            "150_0.jpg"
+        ]
+    },
+    {
+        "ID": 151,
+        "Title": "Untitled",
+        "Description": "23.00 x 25.00 x 42.00 cm.<br>9.06 x 9.84 x 16.54 in.<br>2003<br>Bronze sculpture<br>Signed<br>2008 Beijing Olympics Collection",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Sculpture",
+        "ImagePaths": [
+            "151_0.jpg"
+        ]
+    },
+    {
+        "ID": 152,
+        "Title": "Untitled",
+        "Description": "8.00 x 12.00 x 18.00 cm.<br>3.15 x 4.72 x 7.09 in.<br>2003<br>Bronze sculpture<br>Signed<br>Silver Plated on Bronze-Stand: 8x12x18 cm.<br>",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Sculpture",
+        "ImagePaths": [
+            "152_0.jpg"
+        ]
+    },
+    {
+        "ID": 153,
+        "Title": "Untitled",
+        "Description": "7.00 x 8.00 x 14.00 cm.<br>2.76 x 3.15 x 5.51 in.<br>2003<br>Bronze sculpture<br>Signed<br>Stand:6x6x6 cm.",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Sculpture",
+        "ImagePaths": [
+            "153_0.jpg"
+        ]
+    },
+    {
+        "ID": 154,
+        "Title": "Untitled",
+        "Description": "6.00 x 12.00 x 7.00 cm.<br>2.36 x 4.72 x 2.76 in.<br>2003<br>Bronze sculpture<br>Signed<br>Silver Plated on Bronze-Stand 7x12x5 cm.",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Sculpture",
+        "ImagePaths": [
+            "154_0.jpg"
+        ]
+    },
+    {
+        "ID": 155,
+        "Title": "Untitled",
+        "Description": "5.00 x 10.00 x 10.00 cm.<br>1.97 x 3.94 x 3.94 in.<br>2003<br>Bronze sculpture<br>Signed<br>Silver Plated on Bronze-Stand 7x9x2 cm.",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Sculpture",
+        "ImagePaths": [
+            "155_0.jpg"
+        ]
+    },
+    {
+        "ID": 156,
+        "Title": "Untitled",
+        "Description": "8.00 x 9.00 x 23.00 cm.<br>3.15 x 3.54 x 9.06 in.<br>2003<br>Silver<br>Signed<br>Silver Plated on Bronze",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Sculpture",
+        "ImagePaths": [
+            "156_0.jpg"
+        ]
+    },
+    {
+        "ID": 157,
+        "Title": "Dervish",
+        "Description": "15.00 x 10.00 x 10.00 cm.<br>5.91 x 3.94 x 3.94 in.<br>Bronze sculpture<br>Signed<br>Private Collection Kingdom of Bahrain",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Sculpture",
+        "ImagePaths": [
+            "157_0.jpg"
+        ]
+    },
+    {
+        "ID": 158,
+        "Title": "Life Forms I",
+        "Description": "12.00 x 15.00 x 6.00 cm.<br>4.72 x 5.91 x 2.36 in.<br>2001<br>Bronze sculpture<br>Signed<br>Private collection Canada",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Sculpture",
+        "ImagePaths": [
+            "158_0.jpg"
+        ]
+    },
+    {
+        "ID": 159,
+        "Title": "Life Forms II",
+        "Description": "14.00 x 8.00 x 10.00 cm.<br>5.51 x 3.15 x 3.94 in.<br>2001<br>Bronze sculpture<br>Signed<br>Sparkasse Bank Collection Neustadt-Aisch Germany",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Sculpture",
+        "ImagePaths": [
+            "159_0.jpg"
+        ]
+    },
+    {
+        "ID": 160,
+        "Title": "Life Forms III",
+        "Description": "13.00 x 6.00 x 6.00 cm.<br>5.12 x 2.36 x 2.36 in.<br>2001<br>Bronze sculpture<br>Signed<br>Private collection Canada",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Sculpture",
+        "ImagePaths": [
+            "160_0.jpg"
+        ]
+    },
+    {
+        "ID": 161,
+        "Title": "Unity",
+        "Description": "17.00 x 10.00 x 10.00 cm.<br>6.69 x 3.94 x 3.94 in.<br>2002<br>Bronze sculpture<br>Signed<br>Redha Abdulla Ali Faraj Collection Kingdom of Bahrain",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Sculpture",
+        "ImagePaths": [
+            "161_0.jpg"
+        ]
+    },
+    {
+        "ID": 162,
+        "Title": "Dream",
+        "Description": "15.00 x 38.00 x 10.00 cm.<br>5.91 x 14.96 x 3.94 in.<br>1999<br>Bronze sculpture<br>Signed<br>Private Collection \u0192\u221estanbul",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Sculpture",
+        "ImagePaths": [
+            "162_0.jpg"
+        ]
+    },
+    {
+        "ID": 163,
+        "Title": "The Only Wing",
+        "Description": "12.00 x 5.00 x 5.00 cm.<br>4.72 x 1.97 x 1.97 in.<br>2000<br>Bronze sculpture<br>Signed<br>Private Collection \u0192\u221estanbul",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Sculpture",
+        "ImagePaths": [
+            "163_0.jpg"
+        ]
+    },
+    {
+        "ID": 164,
+        "Title": "Loneliness",
+        "Description": "13.00 x 25.00 x 12.00 cm.<br>5.12 x 9.84 x 4.72 in.<br>1998<br>Bronze sculpture<br>Signed<br>Private collection Ankara",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Sculpture",
+        "ImagePaths": [
+            "164_0.jpg"
+        ]
+    },
+    {
+        "ID": 165,
+        "Title": "The Search",
+        "Description": "15.00 x 10.00 x 10.00 cm.<br>5.91 x 3.94 x 3.94 in.<br>2000<br>Bronze sculpture<br>Signed",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Sculpture",
+        "ImagePaths": [
+            "165_0.jpg"
+        ]
+    },
+    {
+        "ID": 166,
+        "Title": "Untitled",
+        "Description": "15.00 x 10.00 x 10.00 cm.<br>5.91 x 3.94 x 3.94 in.<br>2000<br>Bronze sculpture<br>Signed",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Sculpture",
+        "ImagePaths": [
+            "166_0.jpg"
+        ]
+    },
+    {
+        "ID": 167,
+        "Title": "Tied II",
+        "Description": "27.00 x 19.00 x 19.00 cm.<br>10.63 x 7.48 x 7.48 in.<br>1999<br>Bronze sculpture<br>Signed",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Sculpture",
+        "ImagePaths": [
+            "167_0.jpg"
+        ]
+    },
+    {
+        "ID": 168,
+        "Title": "Destiny",
+        "Description": "12.00 x 8.00 x 8.00 cm.<br>4.72 x 3.15 x 3.15 in.<br>2002<br>Bronze sculpture<br>Signed",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Sculpture",
+        "ImagePaths": [
+            "168_0.jpg"
+        ]
+    },
+    {
+        "ID": 169,
+        "Title": "Shy Lady",
+        "Description": "18.00 x 40.00 x 22.00 cm.<br>7.09 x 15.75 x 8.66 in.<br>1998<br>Bronze sculpture<br>Signed",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Sculpture",
+        "ImagePaths": [
+            "169_0.jpg"
+        ]
+    },
+    {
+        "ID": 170,
+        "Title": "Balance",
+        "Description": "7.00 x 11.00 x 5.00 cm.<br>2.76 x 4.33 x 1.97 in.<br>2000<br>Bronze sculpture<br>Signed",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Sculpture",
+        "ImagePaths": [
+            "170_0.jpg"
+        ]
+    },
+    {
+        "ID": 171,
+        "Title": "Torso",
+        "Description": "12.00 x 8.00 x 6.00 cm.<br>4.72 x 3.15 x 2.36 in.<br>1994<br>Bronze sculpture<br>Signed",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Sculpture",
+        "ImagePaths": [
+            "171_0.jpg"
+        ]
+    },
+    {
+        "ID": 172,
+        "Title": "Earthquake",
+        "Description": "20.00 x 17.00 x 17.00 cm.<br>7.87 x 6.69 x 6.69 in.<br>1999<br>Bronze sculpture<br>Signed",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Sculpture",
+        "ImagePaths": [
+            "172_0.jpg"
+        ]
+    },
+    {
+        "ID": 173,
+        "Title": "Shallowness",
+        "Description": "20.00 x 16.00 x 18.00 cm.<br>7.87 x 6.30 x 7.09 in.<br>1993<br>Bronze sculpture<br>Signed",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Sculpture",
+        "ImagePaths": [
+            "173_0.jpg"
+        ]
+    },
+    {
+        "ID": 174,
+        "Title": "Freedom",
+        "Description": "34.00 x 31.00 cm.<br>13.39 x 12.20 in.<br>1998<br>Bronze relief<br>Signed",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Sculpture",
+        "ImagePaths": [
+            "174_0.jpg"
+        ]
+    },
+    {
+        "ID": 175,
+        "Title": "Sorrow",
+        "Description": "22.00 x 32.00 x 18.00 cm.<br>8.66 x 12.60 x 7.09 in.<br>1998<br>Bronze sculpture<br>Signed",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Sculpture",
+        "ImagePaths": [
+            "175_0.jpg"
+        ]
+    },
+    {
+        "ID": 176,
+        "Title": "Purity",
+        "Description": "43.00 x 27.00 cm.<br>16.93 x 10.63 in.<br>1998<br>Bronze relief<br>Signed<br>Private collection",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Sculpture",
+        "ImagePaths": [
+            "176_0.jpg"
+        ]
+    }
+]
