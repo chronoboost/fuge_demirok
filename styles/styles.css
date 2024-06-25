@@ -1,0 +1,19 @@
+ul {
+    list-style: none;
+}
+
+.navbar li {
+    display: inline;
+}
+
+.header-hero {
+    display: flex;
+    margin: auto;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
