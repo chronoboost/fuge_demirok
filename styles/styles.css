@@ -1,12 +1,59 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
 body {
     font-family: "Lato", Arial, Helvetica, sans-serif;
     font-weight: 300;
+    margin: 0 144px;
+    color: rgb(10, 10, 10);
 }
+
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 48px 0;
+    margin: 0; 
+}
+
+.header-title {
+    text-decoration: none;
+    color: rgb(10, 10, 10);
+}
+
+.header-title:visited {
+    color: rgb(10, 10, 10);
+}
+
+.navbar-items {
+    list-style-type: none;
+    display: flex;
+    padding: 0;
+}
+
+.navbar-item {
+    text-decoration: none;
+    margin: 0 48px 0 0;
+    color: rgb(10, 10, 10);
+    padding-bottom: 4px;
+    border-bottom: 1px solid transparent;
+}
+
+.navbar-item:hover {
+    transition: border 0.5s ease-in-out;
+    border-bottom: 1px solid rgb(10, 10, 10);
+    color: rgb(10, 10, 10);  
+}
+
 h1 {
     font-family: "Poppins", Arial, Helvetica, sans-serif;
     font-weight: 200;
     text-transform: uppercase;
     letter-spacing: 8px;
+    margin: 0;
 }
 
 footer {
@@ -16,5 +63,23 @@ footer {
 }
 
 p {
-    margin: 0 5px 0 0;
+    margin: 0 8px;
+    font-size: 14px;
+}
+
+.header-break {
+    margin: 0;
+    color: rgb(10, 10, 10);
+}
+
+.last-item {
+    margin: 0;
+}
+
+.footer-title {
+    font-family: "Poppins", Arial, Helvetica, sans-serif;
+    font-weight: 200;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin: 0;
 }
