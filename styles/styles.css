@@ -74,9 +74,6 @@ h1 {
 }
 
 footer {
-    /* display: flex;
-    position: absolute;
-    bottom: 2rem; */
     display: flex;
     justify-content: flex-start;
     align-items: center;
@@ -87,11 +84,6 @@ footer {
 p {
     margin: 0 8px;
     font-size: 14px;
-}
-
-.header-break {
-    margin: 0;
-    color: rgb(10, 10, 10);
 }
 
 .footer-title {
@@ -112,9 +104,9 @@ p {
     position: relative;
     max-width: 1080px;
     min-width: 672px;
+    max-height: 820px;
     min-height: 625px;
-    margin: 48px 0;
-    flex-grow: 1;
+    margin: 0 0 48px 0;
 }
 
 .img-link_sculpture {

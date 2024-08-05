@@ -27,16 +27,17 @@
           </ul>
         </nav>
       </header>
-      <hr class="header-break"/>
       <main>
 
       </main>
-      <div id="gallery-preview" class="gallery-preview"></div>
+      <div id="gallery-preview" class="gallery-preview">
+        <a class="img-link_sculpture" href="/pages/sculpture.html"><img src="/assets/fd-gallery-img.jpg" alt="img title" class="gallery-img"></a>
+      </div>
         
       <footer>
       </footer>
     </div>
-    <script>
+    <!-- <script>
       fetch('data/FD-catalog.json')
         .then(response => response.json())
           .then(data => {
@@ -49,7 +50,7 @@
         .catch(error => {
           console.error('Error fetching the catalog:', error);
         });
-    </script>
+    </script> -->
     <script src="scripts/main.js"></script>
   </body>
 </html>
