@@ -5,7 +5,7 @@
 }
 
 body {
-    font-family: "Lato", Arial, Helvetica, sans-serif;
+    font-family: "Moderustic", Arial, Helvetica, sans-serif;
     font-weight: 300;
     margin: 0 144px;
     color: rgb(10, 10, 10);
@@ -100,7 +100,7 @@ footer {
 p {
     margin: 2px 0;
     font-size: 14px;
-    line-height: 150%;
+    /* line-height: 150%; */
 }
 
 .footer-title {
@@ -143,15 +143,41 @@ p {
     display: block;
 }
 
+.current {
+    border-bottom: 1px solid rgb(10, 10, 10);
+    color: rgb(10, 10, 10);  
+}
+
 section {
     margin-bottom: 4rem;
 }
 
 .about-h3 {
+    font-family: "Poppins", Arial, Helvetica, sans-serif;
     margin: 2rem 0 0.5rem 0;
 }
 
-.current {
-    border-bottom: 1px solid rgb(10, 10, 10);
-    color: rgb(10, 10, 10);  
+span {
+    font-family: "Poppins", Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    padding-right: 1rem;
+}
+
+.about-subsection {
+    display: flex;
+}
+
+.about-subsection_dates {
+    display: flex;
+    flex-direction: column;
+    margin-right: 1rem;
+}
+
+.about-subsection_copy {
+    display: flex;
+    flex-direction: column;
+}
+
+.about-subsection_last-item {
+    margin-bottom: 3rem;
 }
