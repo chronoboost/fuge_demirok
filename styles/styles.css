@@ -150,3 +150,8 @@ section {
 .about-h3 {
     margin: 2rem 0 0.5rem 0;
 }
+
+.current {
+    border-bottom: 1px solid rgb(10, 10, 10);
+    color: rgb(10, 10, 10);  
+}

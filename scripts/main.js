@@ -6,16 +6,23 @@ document.addEventListener("DOMContentLoaded", function() {
         </div>
         <nav class="navbar">
         <ul class="navbar-items">
-        <li><a class="navbar-item first-item" href="/pages/sculpture.html">Sculpture</a></li>
-        <li><a class="navbar-item" href="/pages/painting.html">Painting</a></li>
-        <li><a class="navbar-item" href="/pages/multimedia.html">Multimedia</a></li>
-        <li><a class="navbar-item" href="/pages/print.html">Print</a></li>
-        <li><a class="navbar-item last-item" href="/pages/about.html">About</a></li>
+        <li><a id="sculpture" class="navbar-item first-item" href="/pages/sculpture.html">Sculpture</a></li>
+        <li><a id="painting" class="navbar-item" href="/pages/painting.html">Painting</a></li>
+        <li><a id="multimedia" class="navbar-item" href="/pages/multimedia.html">Multimedia</a></li>
+        <li><a id="print" class="navbar-item" href="/pages/print.html">Print</a></li>
+        <li><a id="about" class="navbar-item last-item" href="/pages/about.html">About</a></li>
         </ul>
         </nav>
     `;
 })
 
+document.addEventListener("DOMContentLoaded", function() {
+    const current = document.querySelector('h2').innerText;
+    const header = document.getElementById(`${current}`);
+    if(header) {
+        header.classList.add('current');
+    }
+})
 
 document.addEventListener("DOMContentLoaded", function() {
     const footer = document.querySelector('footer');
