@@ -1,3 +1,6 @@
+const currentPage = document.querySelector('h2').innerText.toLowerCase();
+const gallery = document.getElementById(currentPage + '-gallery');
+
 document.addEventListener("DOMContentLoaded", function() {
     const header = document.querySelector('header');
     header.innerHTML = `
@@ -6,19 +9,18 @@ document.addEventListener("DOMContentLoaded", function() {
         </div>
         <nav class="navbar">
         <ul class="navbar-items">
-        <li><a id="Sculpture" class="navbar-item first-item" href="/pages/sculpture.html">Sculpture</a></li>
-        <li><a id="Painting" class="navbar-item" href="/pages/painting.html">Painting</a></li>
-        <li><a id="Multimedia" class="navbar-item" href="/pages/multimedia.html">Multimedia</a></li>
-        <li><a id="Print" class="navbar-item" href="/pages/print.html">Print</a></li>
-        <li><a id="About" class="navbar-item last-item" href="/pages/about.html">About</a></li>
+        <li><a id="sculpture" class="navbar-item first-item" href="/pages/sculpture.html">Sculpture</a></li>
+        <li><a id="painting" class="navbar-item" href="/pages/painting.html">Painting</a></li>
+        <li><a id="multimedia" class="navbar-item" href="/pages/multimedia.html">Multimedia</a></li>
+        <li><a id="print" class="navbar-item" href="/pages/print.html">Print</a></li>
+        <li><a id="about" class="navbar-item last-item" href="/pages/about.html">About</a></li>
         </ul>
         </nav>
     `;
 })
 
 document.addEventListener("DOMContentLoaded", function() {
-    const current = document.querySelector('h2').innerText;
-    const header = document.getElementById(`${current}`);
+    const header = document.getElementById(`${currentPage}`);
     if(header) {
         header.classList.add('current');
     }
@@ -37,15 +39,17 @@ document.addEventListener("DOMContentLoaded", function() {
 fetch('/data/FD-catalog.json')
     .then(response => response.json())
     .then(data => {
-        const sculptureItems = data.filter(item => item.Type === "Sculpture");
-        const itemContent = sculptureItems.map(item => {
+        const currentType = document.querySelector('h2').innerText;
+        console.log(currentType);
+        const filteredItems = data.filter(item => item.Type === currentType);
+        console.log(filteredItems);
+        const itemContent = filteredItems.map(item => {
             return `
                 <div class="gallery-grid-img">
                     <a href="/pages/details.html?id=${item.ID}"><img src="/data/downloaded_images/${item.ImagePaths[0]}" alt="${item.Title}"></a>
                 </div>
             `;
         }).join('');
-        const gallery = document.getElementById('sculpture-gallery');
         if (gallery) {
             gallery.innerHTML = itemContent;
         };
