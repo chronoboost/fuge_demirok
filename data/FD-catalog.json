@@ -1,4 +1,5 @@
 [
+    
     {
         "ID": 1,
         "Title": "Untitled",
@@ -234,7 +235,7 @@
         "Title": "Untitled",
         "Description": "R: 130 cm.<br>R: 130 cm.<br>Signed",
         "Artist": "F\u00fcge Demirok",
-        "Type": "Mixed Media",
+        "Type": "Multimedia",
         "ImagePaths": [
             "24_0.jpg"
         ]
@@ -244,7 +245,7 @@
         "Title": "Untitled",
         "Description": "100.00 x 140.00 cm.<br>39.37 x 55.12 in.<br>2019<br>Mixed media and photo penture on canvas<br>Signed",
         "Artist": "F\u00fcge Demirok",
-        "Type": "Mixed Media",
+        "Type": "Multimedia",
         "ImagePaths": [
             "25_0.jpg"
         ]
@@ -434,7 +435,7 @@
         "Title": "Untitled",
         "Description": "50.00 x 115.00 cm.<br>19.69 x 45.28 in.<br>2017<br>Mixed media<br>Signed",
         "Artist": "F\u00fcge Demirok",
-        "Type": "Mixed Media",
+        "Type": "Multimedia",
         "ImagePaths": [
             "44_0.jpg"
         ]
@@ -626,7 +627,7 @@
         "Title": "Untitled",
         "Description": "40.00 x 120.00 cm.<br>15.75 x 47.24 in.<br>Mixed media<br>Signed",
         "Artist": "F\u00fcge Demirok",
-        "Type": "Mixed Media",
+        "Type": "Multimedia",
         "ImagePaths": [
             "63_0.jpg",
             "63_1.jpg",
@@ -650,7 +651,7 @@
         "Title": "Untitled",
         "Description": "Signed",
         "Artist": "F\u00fcge Demirok",
-        "Type": "Mixed Media",
+        "Type": "Multimedia",
         "ImagePaths": [
             "65_0.jpg"
         ]
@@ -660,7 +661,7 @@
         "Title": "Untitled",
         "Description": "100.00 x 100.00 cm.<br>39.37 x 39.37 in.<br>Signed",
         "Artist": "F\u00fcge Demirok",
-        "Type": "Mixed Media",
+        "Type": "Multimedia",
         "ImagePaths": [
             "66_0.jpg"
         ]
@@ -789,7 +790,7 @@
         "Title": "Untitled",
         "Description": "120.00 x 60.00 cm.<br>47.24 x 23.62 in.<br>Mixed media on canvas<br>Signed",
         "Artist": "F\u00fcge Demirok",
-        "Type": "Mixed Media",
+        "Type": "Multimedia",
         "ImagePaths": [
             "78_0.jpg"
         ]
