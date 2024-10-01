@@ -208,3 +208,8 @@ section {
     object-fit: cover; 
     transform: translate(-50%, -50%);
 }
+
+// DETAILS PAGE
+.details-description {
+    margin-bottom: 3rem;
+}

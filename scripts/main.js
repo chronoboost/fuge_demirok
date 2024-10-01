@@ -17,14 +17,14 @@ document.addEventListener("DOMContentLoaded", function() {
         </ul>
         </nav>
     `;
-})
+});
 
 document.addEventListener("DOMContentLoaded", function() {
     const header = document.getElementById(`${currentPage}`);
     if(header) {
         header.classList.add('current');
     }
-})
+});
 
 document.addEventListener("DOMContentLoaded", function() {
     const footer = document.querySelector('footer');
@@ -33,27 +33,4 @@ document.addEventListener("DOMContentLoaded", function() {
         <p class="footer-title">Füge Demirok</p>
         <p>&copy; ${currentYear}</p>
     `;
-})
-
-
-fetch('/data/FD-catalog.json')
-    .then(response => response.json())
-    .then(data => {
-        const currentType = document.querySelector('h2').innerText;
-        console.log(currentType);
-        const filteredItems = data.filter(item => item.Type === currentType);
-        console.log(filteredItems);
-        const itemContent = filteredItems.map(item => {
-            return `
-                <div class="gallery-grid-img">
-                    <a href="/pages/details.html?id=${item.ID}"><img src="/data/downloaded_images/${item.ImagePaths[0]}" alt="${item.Title}"></a>
-                </div>
-            `;
-        }).join('');
-        if (gallery) {
-            gallery.innerHTML = itemContent;
-        };
-    })
-    .catch(error => {
-    console.error('Error fetching the catalog:', error);
 });
