@@ -1,0 +1,38 @@
+.details-div {
+    position: relative;
+}
+
+.details-sticky {
+    position: sticky;
+    bottom: 70px; 
+    background: linear-gradient(to right, rgba(255, 255, 255) 25%, rgba(255, 255, 255, 0.5) 100%);
+    z-index: 1; 
+    width: 100%; 
+    max-width: 1080px; 
+    z-index: 1; 
+    width: 100%; 
+    max-width: 1080px; 
+    padding-bottom: .5rem;
+}
+
+.details-img-div {
+    padding-bottom: 2.75rem;
+}
+
+.details-title {
+    margin: .25rem 0;
+    padding-top: 1rem;
+}
+
+.details-description {
+    padding-bottom: .5rem;
+}
+
+.details-img {
+    max-height: 900px;
+    max-width: 1080px;
+    margin-bottom: 1rem;
+    display: block;
+    width: 100%;
+    object-fit: cover;
+}

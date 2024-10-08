@@ -1,0 +1,26 @@
+.about-section {
+    max-width: 60vw;
+}
+
+.about-h3 {
+    font-family: "Poppins", Arial, Helvetica, sans-serif;
+    margin: 2rem 0 0.5rem 0;
+}
+
+.about-subsection {
+    display: flex;
+}
+
+.about-dates {
+    width: 80px;
+    flex-shrink: 0;
+}
+
+.about-copy {
+    display: flex;
+    flex-direction: column;
+}
+
+.about-subsection_last-item {
+    margin-bottom: 3rem;
+}
