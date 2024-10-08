@@ -1,0 +1,78 @@
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    min-width: 672px;
+}
+
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 48px 0;
+    margin: 0; 
+}
+
+.header-title {
+    text-decoration: none;
+    color: rgb(10, 10, 10);
+}
+
+.header-title:visited {
+    color: rgb(10, 10, 10);
+}
+
+.navbar-items {
+    list-style-type: none;
+    display: flex;
+    padding: 0;
+}
+
+.navbar-item {
+    text-decoration: none;
+    margin: 0 0 0 48px;
+    color: rgb(10, 10, 10);
+    padding-bottom: 4px;
+    border-bottom: 1px solid transparent;
+}
+
+.navbar-item:hover {
+    transition: border 0.5s ease-in-out;
+    border-bottom: 1px solid rgb(10, 10, 10);
+    color: rgb(10, 10, 10);  
+}
+
+.first-item {
+    margin-left: 24px;
+}
+
+.last-item {
+    margin-right: 4px;
+}
+
+.current {
+    border-bottom: 1px solid rgb(10, 10, 10);
+    color: rgb(10, 10, 10);  
+}
+
+footer {
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    flex-shrink: 0;
+    width: 100%;
+    height: 72px;
+    padding: 24px 0 48px 0;
+    position: fixed;
+    bottom: 0;
+    z-index: 5;
+    background-color: #FFFFFF;
+}
+
+.footer-title {
+    font-family: "Poppins", Arial, Helvetica, sans-serif;
+    font-weight: 300;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin: 0;
+}

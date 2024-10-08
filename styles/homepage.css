@@ -1,0 +1,31 @@
+.gallery-preview {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 65vh; 
+    width: calc(100vw - 288px);
+    overflow: hidden; 
+    position: relative;
+    max-width: 1080px;
+    min-width: 672px;
+    max-height: 820px;
+    min-height: 625px;
+    margin: 0 0 48px 0;
+}
+
+.img-link_sculpture {
+    display: block;
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.gallery-img {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    object-position: center;
+    position: relative;
+    display: block;
+}
