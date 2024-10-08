@@ -26,10 +26,10 @@ function renderGalleryItems(items, type) {
         itemCard.classList.add('gallery-grid-img');
         
         let galleryItemLink = document.createElement('a');
-        galleryItemLink.setAttribute('href', `/pages/details.html?id=${item.ID}`);
+        galleryItemLink.setAttribute('href', `pages/details.html?id=${item.ID}`);
         
         let galleryImg = document.createElement('img');
-        galleryImg.setAttribute('src', `/data/downloaded_images/${item.ImagePaths[0]}`);
+        galleryImg.setAttribute('src', `data/downloaded_images/${item.ImagePaths[0]}`);
         galleryImg.setAttribute('alt', item.Title);
         
         galleryItemLink.appendChild(galleryImg);
