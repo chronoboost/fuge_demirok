@@ -16,7 +16,7 @@ fetch('../data/FD-catalog.json')
 
             item.ImagePaths.forEach(path => {
                 let detailsImg = document.createElement('img');
-                detailsImg.setAttribute('src', `data/downloaded_images/${path}`);
+                detailsImg.setAttribute('src', `../data/downloaded_images/${path}`);
                 detailsImg.setAttribute('alt', `${item.Title}, a ${item.Type}`);
                 detailsImg.setAttribute('style', 'max-height: 900px;max-width: 1080px;margin-bottom: 1rem;');
                 
