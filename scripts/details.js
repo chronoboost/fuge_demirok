@@ -10,6 +10,33 @@ fetch('../data/FD-catalog.json')
         if(item) {
             let detailsDiv = document.getElementById('item-details');
 
+            
+            let detailsSticky = document.createElement('div');
+            detailsSticky.classList.add('details-sticky');
+            
+            // title
+            let detailsTitle = document.createElement('h3');
+            detailsTitle.innerText = item.Title;
+            detailsTitle.classList.add('details-title');
+            detailsSticky.appendChild(detailsTitle);
+            
+            // description
+            let descriptionText = item.Description.split('<br>');
+            let detailsDescription = document.createElement('p');
+            detailsDescription.classList.add('details-description');
+            
+            descriptionText.forEach((line, index) => {
+                detailsDescription.appendChild(document.createTextNode(line));
+                
+                if (index < descriptionText.length - 1) {
+                    detailsDescription.appendChild(document.createElement('br'));
+                }
+            });
+            
+            detailsSticky.appendChild(detailsDescription);
+            
+            detailsDiv.appendChild(detailsSticky);
+           
             // images
             let detailsImgDiv = document.createElement('div');
             detailsImgDiv.classList.add('details-img-div');
@@ -24,32 +51,6 @@ fetch('../data/FD-catalog.json')
             });
 
             detailsDiv.appendChild(detailsImgDiv);
-
-            let detailsSticky = document.createElement('div');
-            detailsSticky.classList.add('details-sticky');
-
-            // title
-            let detailsTitle = document.createElement('h3');
-            detailsTitle.innerText = item.Title;
-            detailsTitle.classList.add('details-title');
-            detailsSticky.appendChild(detailsTitle);
-
-            // description
-            let descriptionText = item.Description.split('<br>');
-            let detailsDescription = document.createElement('p');
-            detailsDescription.classList.add('details-description');
-
-            descriptionText.forEach((line, index) => {
-                detailsDescription.appendChild(document.createTextNode(line));
-                
-                if (index < descriptionText.length - 1) {
-                    detailsDescription.appendChild(document.createElement('br'));
-                }
-            });
-
-            detailsSticky.appendChild(detailsDescription);
-
-            detailsDiv.appendChild(detailsSticky);
 
         } else {
             let errorH3 = document.createElement('h3');

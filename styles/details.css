@@ -4,12 +4,11 @@
 
 .details-sticky {
     position: sticky;
-    bottom: 70px; 
-    background: linear-gradient(to right, rgba(255, 255, 255) 25%, rgba(255, 255, 255, 0.5) 100%);
-    z-index: 1; 
+    top: 148px; 
+    z-index: 3; 
+    background-color: rgba(255, 255, 255);
     width: 100%; 
     max-width: 1080px; 
-    z-index: 1; 
     width: 100%; 
     max-width: 1080px; 
     padding-bottom: .5rem;
@@ -22,6 +21,7 @@
 .details-title {
     margin: .25rem 0;
     padding-top: 1rem;
+    font-weight: 300;
 }
 
 .details-description {
