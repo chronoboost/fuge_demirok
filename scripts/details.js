@@ -2,7 +2,7 @@ const params = new URLSearchParams(window.location.search);
 const itemId = params.get('id');
 console.log('itemID: ', itemId);
 
-fetch('/data/FD-catalog.json')
+fetch('../data/FD-catalog.json')
     .then(response => response.json())
     .then(data => {
         const item = data[itemId -1];
