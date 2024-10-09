@@ -5,7 +5,7 @@ document.addEventListener("DOMContentLoaded", function () {
   const header = document.querySelector("header");
   header.innerHTML = `
         <div class="header-div">
-        <a class="header-title" href="/fuge_demirok/index.html"><h1>Füge Demirok</h1></a>
+        <a class="header-title" href="/index.html"><h1>Füge Demirok</h1></a>
         </div>
         <nav class="navbar">
         <ul class="navbar-items">
