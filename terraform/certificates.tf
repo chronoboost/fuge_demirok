@@ -1,8 +1,8 @@
-#provider "aws" {
-#  alias  = "us_east_1"
-#  region = "us-east-1"
-#}
-#
+provider "aws" {
+  alias  = "us_east_1"
+  region = "us-east-1"
+}
+
 ## ACM Certificate for www.fugedemirok.com and fugedemirok.com in us-east-1
 #resource "aws_acm_certificate" "fugedemirok_cert" {
 #  provider         = aws.us_east_1
