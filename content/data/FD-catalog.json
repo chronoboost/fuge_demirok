@@ -1776,5 +1776,55 @@
         "ImagePaths": [
             "176_0.jpg"
         ]
+    },
+    {
+        "ID": 177,
+        "Title": "Tree of Life",
+        "Description": "110.00 x 60.00 cm.<br>43.31 x 23.62 in.<br>1998<br>Acrylics on canvas<br>Signed",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Painting",
+        "ImagePaths": [
+            "177_0.jpg"
+        ]
+    },
+    {
+        "ID": 178,
+        "Title": "Simurg",
+        "Description": "110.00 x 60.00 cm.<br>43.31 x 23.62 in.<br>1998<br>Acrylics on canvas<br>Signed",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Painting",
+        "ImagePaths": [
+            "178_0.jpg"
+        ]
+    },
+    {
+        "ID": 179,
+        "Title": "Suddenly no1",
+        "Description": "60.00 x 110.00 cm.<br>23.62 x 43.31 in.<br>1998<br>Acrylics on canvas, silver and gold leaf, tar<br>Signed",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Painting",
+        "ImagePaths": [
+            "179_0.jpg"
+        ]
+    },
+    {
+        "ID": 180,
+        "Title": "Suddenly no2",
+        "Description": "60.00 x 60.00 cm.<br>23.62 x 23.62 in.<br>1998<br>Acrylics on canvas, silver and gold leaf, tar<br>Signed",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Painting",
+        "ImagePaths": [
+            "180_0.jpg"
+        ]
+    },
+    {
+        "ID": 181,
+        "Title": "Suddenly no3",
+        "Description": "80.00 x 60.00 cm.<br>31.5 x 23.62 in.<br>1998<br>Acrylics on canvas<br>Signed",
+        "Artist": "F\u00fcge Demirok",
+        "Type": "Painting",
+        "ImagePaths": [
+            "181_0.jpg"
+        ]
     }
 ]
